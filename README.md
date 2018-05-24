@@ -5,7 +5,7 @@ sudo apt-get install curl
 
 By following the guide of "IP Media Device Management Protocal User Guide" V2 2013-12, all the funcitons in the guide can be implemented through my code with curl PUT/GET/POST method. 
 
-I haven't try the DELETE method since it is not dangerous for my project at the moment. But it should be feasible following the example here.
+I haven't try the DELETE method since it is too dangerous for my project at the moment. But it should be feasible following the example here.
 
 
 !!!!! NOTE: I do NOT guarantee the code will not damage the device although it works for the HikVision device in my project. 
